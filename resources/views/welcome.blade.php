@@ -6,7 +6,7 @@
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="{{asset('/css/stylesheet.css')}}">
+<link rel="stylesheet" href="{{secure_asset('/css/stylesheet.css')}}">
 <style type="text/css">
     
 </style>
